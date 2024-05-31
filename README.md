@@ -85,10 +85,10 @@ WashU epigenome browser tracks illustrating distributions of strand-specific RNA
   </div>
   <div style="flex: 1; padding-right: 20px;">
     <ul style="list-style-type: none; padding: 0;">
-      <li>- ChatGPT exhibited significant promise in deciphering bioinformatics scientific figures.</li>
-      <li>- ChatGPT is proficient in explaining different plot types and applying biological knowledge.</li>
-      <li>- It struggles with accurately interpreting colors and performing quantitative analyses.</li>
-      <li>- Human-in-the-loop mechanism is required when working with AI tools.</li>
+      <li> ChatGPT exhibited significant promise in deciphering bioinformatics scientific figures.</li>
+      <li> ChatGPT is proficient in explaining different plot types and applying biological knowledge.</li>
+      <li> It struggles with accurately interpreting colors and performing quantitative analyses.</li>
+      <li> Human-in-the-loop mechanism is required when working with AI tools.</li>
     </ul>
   </div>
 
