@@ -1,4 +1,4 @@
-# Scientific Figures Interpreted by ChatGPT
+# **Scientific Figures Interpreted by ChatGPT**
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## Introduction
@@ -13,7 +13,7 @@ Emphasizes the need for stringent proofreading for accuracy and reliability.
 
 📃 [Read the Full Paper](https://www.nature.com/articles/s41698-024-00576-z)
 
-## Materials
+## **Materials**
 
 Four case studies in cancer research:
 
@@ -41,11 +41,11 @@ Four case studies in cancer research:
 
 WashU epigenome browser tracks illustrating distributions of strand-specific RNA-Seq reads, ChIP-seq reads for H3K4me3, H3K27ac, and H3K27me3, as well as PLAC-seq reads for chromatin-chromatin interactions. Blue rectangles (A1 to A3): active promoter regions; Pink rectangles (I1 and I2): inactive promoter regions; Green rectangles (E1 to E4): active enhancer regions; Blue circles: promoter regions (A1, I1, and A3) interacting with YY1; Green circles: enhancer regions (E1 to E3) interacting with YY1. Dashed lines shared with one circle on the heatmap: two interacting genome regions. Degree of purpleness on the heatmap indicting interaction strength.
 
-## Methods
+## **Methods**
 
 ![Workflow](Figs/Picture6.png)
 
-## Results
+## **Results**
 
 ### Overall performance: 
 
@@ -76,11 +76,11 @@ WashU epigenome browser tracks illustrating distributions of strand-specific RNA
 - Positional Inference: Unsatisfactory performance was prevalent across replicates except for those from the “RNA” case.
 - Counts: All replicates showed unsatisfactory performance for all included cases.
 
-## Conclusion
+## **Conclusion**
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="flex: 1; text-align: center;">
-    <img src="Figs/Picture10.png" alt="Evaluation Image" style="width: 30%; height: auto;">
+    <img src="Figs/Picture10.png" alt="Evaluation Image" style="width: 20%; height: auto;">
   </div>
   <div style="flex: 1; padding-right: 20px;">
     <ul style="list-style-type: none; padding: 0;">
@@ -93,7 +93,7 @@ WashU epigenome browser tracks illustrating distributions of strand-specific RNA
 
 </div>
 
-## Citation
+## **Citation**
 
 @article{wang2024scientific,
   title={Scientific figures interpreted by ChatGPT: strengths in plot recognition and limits in color perception},
