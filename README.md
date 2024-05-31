@@ -58,7 +58,8 @@ WashU epigenome browser tracks illustrating distributions of strand-specific RNA
 
 ### Performance by category: 
 
-![Result2](Figs/Picture8.png)
+<img src="Figs/Picture8.png" width="400">
+
 
 - Statement accuracy for each case study, sorted by category, is also visualized. 
 - GPT-4V has high proficiency in plot type recognition and domain knowledge recall, with over 85% accuracy in all cases.
