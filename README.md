@@ -9,7 +9,7 @@
 * Assessed areas include sequencing data analysis, drug repositioning, and tumor evolution.
 * Finds ChatGPT proficient in explaining plot types and applying biological insights.
 * Identifies challenges in color perception and quantitative visual analysis.
-Emphasizes the need for stringent proofreading for accuracy and reliability.
+* Emphasizes the need for stringent proofreading for accuracy and reliability.
 
 📃 [Read the Full Paper](https://www.nature.com/articles/s41698-024-00576-z)
 
