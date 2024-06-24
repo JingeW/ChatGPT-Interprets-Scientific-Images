@@ -5,7 +5,7 @@
 
 ![Intro](Figs/Picture1.png)
 
-* This work evaluates ChatGPT's GPT-4V(ision) capabilities in deciphering bioinformatics figures.
+* This work evaluates ChatGPT's capabilities in deciphering bioinformatics figures.
 * Assessed areas include sequencing data analysis, drug repositioning, and tumor evolution.
 * Finds ChatGPT proficient in explaining plot types and applying biological insights.
 * Identifies challenges in color perception and quantitative visual analysis.
