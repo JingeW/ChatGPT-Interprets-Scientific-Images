@@ -49,7 +49,7 @@ WashU epigenome browser tracks illustrating distributions of strand-specific RNA
 
 ### Overall performance: 
 
-![Result1](Figs/Picture7.png)
+![Result1](Figs/Picture7.JPG)
 
 - We calculated the percentages of true statements for each case based on the summative table results.
 - The “RNA” case achieved the highest accuracy levels (95.1±1.3%). 
@@ -58,7 +58,7 @@ WashU epigenome browser tracks illustrating distributions of strand-specific RNA
 
 ### Performance by category: 
 
-<img src="Figs/Picture8.png" width="400">
+<img src="Figs/Picture8.JPG" width="400">
 
 
 - Statement accuracy for each case study, sorted by category, is also visualized. 
@@ -69,7 +69,7 @@ WashU epigenome browser tracks illustrating distributions of strand-specific RNA
 
 ### Performance by category across replicates:
 
-![Result3](Figs/Picture9.png)
+![Result3](Figs/Picture9.JPG)
 
 - Plot Recognition: All replicates showed satisfactory performance for all cases.
 - Domain Knowledge: All replicates showed satisfactory performance for all cases.
@@ -81,7 +81,7 @@ WashU epigenome browser tracks illustrating distributions of strand-specific RNA
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="flex: 1; text-align: center;">
-    <img src="Figs/Picture10.png" alt="Evaluation Image" style="width: 20%; height: auto;">
+    <img src="Figs/Picture10.JPG" alt="Evaluation Image" style="width: 20%; height: auto;">
   </div>
   <div style="flex: 1; padding-right: 20px;">
     <ul style="list-style-type: none; padding: 0;">
