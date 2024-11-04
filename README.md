@@ -3,7 +3,7 @@
 
 ## Introduction
 
-![Intro](Figs/Picture1.png)
+![Intro](Figs/Intro-SciFig.JPG)
 
 * This work evaluates ChatGPT's capabilities in deciphering bioinformatics figures.
 * Assessed areas include sequencing data analysis, drug repositioning, and tumor evolution.
